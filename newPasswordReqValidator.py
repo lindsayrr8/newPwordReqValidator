@@ -1,3 +1,4 @@
+
 # This program asks the user to input
 # a password requiring:
 # >= 8 characters,
